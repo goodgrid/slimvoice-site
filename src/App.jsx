@@ -7,12 +7,7 @@ function App() {
       <header className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md border-b border-gray-100 z-50">
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-              <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-              </svg>
-            </div>
-            <span className="text-xl font-semibold text-gray-900">Slimvoice</span>
+            <img src="/logo.png" alt="Slimvoice" className="h-24" />
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <a href="#hoe-het-werkt" className="text-gray-600 hover:text-gray-900 transition-colors">Hoe het werkt</a>
@@ -353,12 +348,7 @@ function App() {
       <footer className="py-8 px-6 bg-gray-900 text-gray-400">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
-            <div className="w-6 h-6 bg-blue-600 rounded flex items-center justify-center">
-              <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-              </svg>
-            </div>
-            <span className="text-white font-medium">Slimvoice</span>
+            <img src="/logo.png" alt="Slimvoice" className="h-20" />
           </div>
           <p className="text-sm">
             © {new Date().getFullYear()} Slimvoice · Een product van{' '}
