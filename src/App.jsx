@@ -18,7 +18,7 @@ function App() {
             <a href="#hoe-het-werkt" className="text-gray-600 hover:text-gray-900 transition-colors">Hoe het werkt</a>
             <a href="#voor-wie" className="text-gray-600 hover:text-gray-900 transition-colors">Voor wie</a>
             <a href="#veiligheid" className="text-gray-600 hover:text-gray-900 transition-colors">Veiligheid</a>
-            <a href="#" className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium">Meld je aan</a>
+            <a href="https://app.slimvoice.nl" className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium">Meld je aan</a>
           </nav>
         </div>
       </header>
@@ -36,7 +36,7 @@ function App() {
             <a href="#" className="px-8 py-4 bg-gray-100 text-gray-900 rounded-xl hover:bg-gray-200 transition-colors font-medium text-lg">
               Bekijk demo
             </a>
-            <a href="#" className="px-8 py-4 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium text-lg shadow-lg shadow-blue-600/25">
+            <a href="https://app.slimvoice.nl" className="px-8 py-4 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium text-lg shadow-lg shadow-blue-600/25">
               Meld je aan
             </a>
           </div>
@@ -342,7 +342,7 @@ function App() {
             <a href="#" className="px-8 py-4 bg-white text-blue-600 rounded-xl hover:bg-blue-50 transition-colors font-medium text-lg">
               Bekijk demo
             </a>
-            <a href="#" className="px-8 py-4 bg-blue-700 text-white rounded-xl hover:bg-blue-800 transition-colors font-medium text-lg border border-blue-500">
+            <a href="https://app.slimvoice.nl" className="px-8 py-4 bg-blue-700 text-white rounded-xl hover:bg-blue-800 transition-colors font-medium text-lg border border-blue-500">
               Meld je aan
             </a>
           </div>
